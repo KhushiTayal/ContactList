@@ -1,0 +1,9 @@
+.heading{
+  text-align: center;
+  font-size: 100px;
+  color: #117FB2;
+    -webkit-mask-box-image: -webkit-gradient(linear,
+                left top, left bottom,
+                color-stop(20%,rgba(0,0,0,1)),
+                color-stop(100%,rgba(0,0,0,0)));
+}

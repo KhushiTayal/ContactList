@@ -1,0 +1,14 @@
+.render{
+    position: relative;
+    text-align: center;
+    font-size: 150%;
+    font-style: italic;
+    font-family: serif;
+}
+.add{
+    margin: 2%;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: #117FB2;
+    color: white;
+}

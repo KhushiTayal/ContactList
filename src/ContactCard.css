@@ -1,0 +1,21 @@
+.ul{
+    position: relative;
+    text-align: center;
+    font-size: 100%;
+    font-family: serif;
+    text-decoration: none;
+}
+
+.li{
+    display: inline;
+    text-align: center;
+}
+
+.dele{
+    background-color: tomato;
+    border-radius: 5px;
+}
+
+.contactcard{
+    text-align: center;
+}
